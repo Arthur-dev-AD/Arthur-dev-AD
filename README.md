@@ -9,7 +9,7 @@ I'm currently learning Python, and I previously worked with VBS and Lua.
 ## 🛠 Skills
 
 - Python (learning)
-- ![Static Badge](https://img.shields.io/badge/Scripting?label=Lua&labelColor=338af4)
+- ![Static Badge](https://img.shields.io/badge/Scripting%20-%20LUA%20-%20%20338af4?label=Lua&labelColor=338af4)
 - VBS
 - Basic electronics
 - 3D printing
