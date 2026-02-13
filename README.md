@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Arthur-dev-AD/Arthur-dev-AD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arthur, a French student.  
+I have been coding since I was 9 years old in different languages.  
+I also love 3D printing, laser engraving, and building technical projects.
 
-Here are some ideas to get you started:
+I'm currently learning Python, and I previously worked with VBS and Lua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Python (learning)
+- Lua
+- VBS
+- Basic electronics
+- 3D printing
+- Laser engraving
+- Basic CAD
+
+## 🎯 Goals
+
+- Become an engineer or technician  
+- Build useful and concrete projects  
+- Learn more about software and hardware  
+- Share projects and learn from others  
+
+## 🧰 Tools I use
+
+- VS Code
+- GitHub
+- Thonny (sometimes)
+- 3D printer slicers
+
+## ⚡ Fun facts
+
+- I like optimizing things even when it's not required  
+- I enjoy complex projects  
+- I prefer understanding than copy-pasting  
