@@ -11,11 +11,10 @@ I'm currently learning Python, and I previously worked with VBS and Lua.
 - ![Static Badge](https://img.shields.io/badge/Scripting%20-%20Python(learning)%20-%20%20338af4)
 - ![Static Badge](https://img.shields.io/badge/Scripting%20-%20LUA%20-%20%20338af4)
 - ![Static Badge](https://img.shields.io/badge/Scripting%20-%20VBS%20-%20%20338af4)
-- ![Static Badge](https://img.shields.io/badge/Engineering%20-%20Basic%20electronics%20-%20%20338af4?labelColor=338af4)
-
-- 3D printing
-- Laser engraving
-- Basic CAD
+- ![Static Badge](https://img.shields.io/badge/Engineering%20-%20Basic%20electronics%20-%20%20338af4?color=338af4)
+- ![Static Badge](https://img.shields.io/badge/Engineering%20-%20Basic%20CAD?color=338af4)
+- ![Static Badge](https://img.shields.io/badge/Machining%20-%203D%20printing?color=f43933)
+- ![Static Badge](https://img.shields.io/badge/Machining%20-%20Laser%20engraving?color=f43933)
 
 ## 🎯 Goals
 
