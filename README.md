@@ -8,10 +8,11 @@ I'm currently learning Python, and I previously worked with VBS and Lua.
 
 ## 🛠 Skills
 
-- Python (learning)
+- ![Static Badge](https://img.shields.io/badge/Scripting%20-%20Python(learning)%20-%20%20338af4)
 - ![Static Badge](https://img.shields.io/badge/Scripting%20-%20LUA%20-%20%20338af4)
-- VBS
-- Basic electronics
+- ![Static Badge](https://img.shields.io/badge/Scripting%20-%20VBS%20-%20%20338af4)
+- ![Static Badge](https://img.shields.io/badge/Engineering%20-%20Basic%20electronics%20-%20%20338af4?labelColor=338af4)
+
 - 3D printing
 - Laser engraving
 - Basic CAD
